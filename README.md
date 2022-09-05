@@ -1,2 +1,6 @@
-# hello_world
-Hello_world_c
+#include <stdio.h>
+
+int main(void) {
+  printf("Hello World\n");
+  return 0;
+}
